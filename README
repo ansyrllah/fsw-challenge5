@@ -1,0 +1,9 @@
+ENV in root folder
+
+CLIENT= 
+DATABASE = 
+USER = 
+PASSWORD = 
+CLOUD_NAME= 
+API_KEY= 
+API_SECRET= 
