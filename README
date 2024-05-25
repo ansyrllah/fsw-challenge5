@@ -1,9 +1,11 @@
-ENV in root folder
+# Challenge 5
 
-CLIENT= 
-DATABASE = 
-USER = 
-PASSWORD = 
-CLOUD_NAME= 
-API_KEY= 
-API_SECRET= 
+## ERD 
+
+![ERD](erd.png)
+
+
+## Installation
+
+- Ubah file example.txt menjadi .env
+- Konfigurasi database & cloudinary dalam file .env

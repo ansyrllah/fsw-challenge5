@@ -1,0 +1,12 @@
+// bikin file .env berisi ini:
+
+// DATABASE
+CLIENT=
+DATABASE =
+USER =
+PASSWORD =
+
+// CLOUDINARY
+CLOUD_NAME =
+API_KEY =
+API_SECRET =
